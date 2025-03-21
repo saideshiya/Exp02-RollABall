@@ -75,11 +75,9 @@ public class Move : MonoBehaviour
 
 ## Output:
 
-![Screenshot (198)](https://github.com/user-attachments/assets/fe1a6054-6992-4dea-a2e7-7829050e4c3b)
+![Screenshot (203)](https://github.com/user-attachments/assets/888fb78b-e867-4c06-86a7-faafabe155dd)
 
-![Screenshot (199)](https://github.com/user-attachments/assets/43d2ad9d-c1c6-4f0b-a2fe-814c06109913)
-
-![Screenshot (200)](https://github.com/user-attachments/assets/15effb0a-7bef-4e71-8650-f636117e8c2b)
+![Screenshot (204)](https://github.com/user-attachments/assets/dec2f586-479d-4e5d-bdcd-8e9f08b03ab5)
 
 ## Result:
 Thus, a 3D application for RollABall objects in unity is developed successfully.
